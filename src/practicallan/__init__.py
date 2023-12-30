@@ -1,3 +1,3 @@
-from solver import Solver, Path
+from .solver import Solver, Path
 
 __all__ = ["Solver", "Path"]
