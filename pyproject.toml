@@ -1,0 +1,18 @@
+[project]
+name = "practicallan"
+version = "0.0.1"
+authors = [
+  { name="Thomas Zachary", email="gruozachary@proton.me" },
+]
+description = "Solver for a word game"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/gruozachary/practicallan"
+Issues = "https://github.com/gruozachary/practicallan/issues"
