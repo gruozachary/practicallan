@@ -1,3 +1,5 @@
-from .solver import Solver, Path
+"""A module to solve the IMessage game 'Word Hunt' and similar games"""
 
-__all__ = ["Solver", "Path"]
+from .solver import solve, WordPath
+
+__all__ = ["solve", "WordPath"]
